@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PulusaniSK
 - 👀 I’m interested in ... Data Analytics 
 - 🌱 I’m currently learning ... Data Analysis 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... pulusanisaikrishna@gmail.com
 - ⚡ Fun fact: ... " Walmart's data collection game is so strong that if you stacked up all the data they 
                     collect in an hour, you could build a data tower taller than Mount Everest! Imagine a     
