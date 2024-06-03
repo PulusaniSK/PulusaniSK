@@ -1,0 +1,45 @@
+{
+  "person": {
+    "name": "John Doe",
+    "age": 29,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zipCode": "90210"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "555-555-5555"
+      },
+      {
+        "type": "work",
+        "number": "555-555-1234"
+      }
+    ],
+    "favoriteBooks": [
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "yearPublished": 1960
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "yearPublished": 1949
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "yearPublished": 1925
+      }
+    ],
+    "hobbies": ["reading", "hiking", "coding"],
+    "isEmployed": true,
+    "jobTitle": "Software Engineer"
+  },
+  "randomFact": "The honeybee is the only insect that produces food eaten by humans.",
+  "lastLogin": "2024-05-28T14:23:00Z"
+},
